@@ -22,4 +22,20 @@ pip install lolcat
 pkg install git -y 
 
  
-git clone https://github.com/mrkarthickdevil/TGH/tree/main
+git clone https://github.com/mrkarthickdevil/TGH.git
+
+
+cd TGH
+
+chmod +x *
+
+./TGH.sh or bash TGH.sh
+
+
+# This tool for only fun perpose and like screensaver cli 
+
+support our group 
+
+https://t.me/teluguhackersgroup1
+
+# opensource code modified your style 😉
