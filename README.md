@@ -22,3 +22,4 @@ pip install lolcat
 pkg install git -y 
 
  
+git clone https://github.com/mrkarthickdevil/TGH/tree/main
